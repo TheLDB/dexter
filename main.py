@@ -1,5 +1,10 @@
 # This first part is just gonna be me expirementing with how fibonacci works and shi
 
+
+# Might switch to a different search algorithm for ease. not sure yet. 
+
+
+
 def search(lys, val):
     fibM_2 = 0
     # thats the numbers thats 2 gens behind the current fib number
