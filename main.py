@@ -1,0 +1,1 @@
+# This first part is just gonna be me expirementing with how fibonacci works and shi
